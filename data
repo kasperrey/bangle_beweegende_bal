@@ -1,0 +1,6 @@
+require("Storage").write("kaprobol.info",{
+  "id":"kaprobol",
+  "name":"doolhof",
+  "src":"kaprobol.app.js",
+  "icon":"kaprobol.png"
+});
